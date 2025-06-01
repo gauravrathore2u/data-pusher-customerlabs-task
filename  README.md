@@ -73,8 +73,6 @@ The server will start on `http://localhost:3000` by default.
 
 The application uses SQLite with TypeORM. The database file (`data-pusher.db`) will be automatically created on first run.
 
-## 📚 API Documentation
-
 ### Base URL
 
 ```
